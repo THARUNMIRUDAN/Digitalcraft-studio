@@ -253,7 +253,10 @@ li {
     height: 60vh;
     background-color: white;
 }
-
+.bottom-container{
+min-height:60vh;
+background-color:white;
+}
 .i1 {
     color: grey;
     font-weight: 500;
