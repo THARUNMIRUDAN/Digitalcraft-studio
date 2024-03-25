@@ -249,13 +249,10 @@ li {
 
 }
 
-.bottom-container {
-    height: 60vh;
-    background-color: white;
-}
+
 .bottom-container{
-min-height:60vh;
-background-color:white;
+    min-height:60vh;
+    background-color:white;
 }
 .i1 {
     color: grey;
